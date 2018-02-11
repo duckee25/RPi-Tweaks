@@ -1,5 +1,6 @@
 #!/bin/sh
-# Part of raspi-config https://github.com/RPi-Distro/raspi-config
+# Part of kalipi-config https://github.com/Re4son/RPi-Tweaks/tree/master/kalipi-config
+# Based on raspi-config https://github.com/RPi-Distro/raspi-config
 #
 # See LICENSE file for copyright and license details
 
